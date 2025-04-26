@@ -1,6 +1,8 @@
-# Wireless Thermometer Network
+# Wireless Thermometer Network with Matter Support
 
 A network of wireless thermometers all connected to one hub accessible from any smart device.
+
+Including Matter support for Apple HomeKit, Google Home, HomeAssistant and any Matter supported system.
 
 Read more on the DIY build at: https://thebrightknight.github.io/
 
